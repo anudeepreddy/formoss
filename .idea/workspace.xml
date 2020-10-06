@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d80aab-835b-4256-bdc6-5eaf5d5023e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/formoss/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/formoss/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iMutL5BBwDjyUlYP1cctEX5gq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.main">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="ForMoss" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="ForMoss" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ForMoss/cmd/formoss" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ForMoss" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/formoss/main.go" />
+      <package value="ForMoss/cmd/formoss" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ForMoss" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/ForMoss/main.go" />
+      <package value="ForMoss" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="ForMoss" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="ForMoss" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.main" />
+        <item itemvalue="Go Build.go build ForMoss/cmd/formoss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first cut to github" />
+    <MESSAGE value="testing some initial code (I have no idea if i am doing it right)" />
+    <MESSAGE value="moss code is doing better than before" />
+    <option name="LAST_COMMIT_MESSAGE" value="moss code is doing better than before" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="245" key="#Go_Modules" timestamp="1601730174164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="245" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1601730174164" />
+    <state x="526" y="236" key="#Notifications" timestamp="1601736016948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601736016948" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601830112567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601830112567" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1601730761342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601730761342" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1601997049777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601997049777" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1601997049776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601997049776" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1601997049776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601997049776" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1601997049777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601997049777" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601992994531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601992994531" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601992994531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601992994531" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601992994531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601992994531" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601992994531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601992994531" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601915149384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601915149384" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1601917961281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1601917961281" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1601996334266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601996334266" />
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601735793454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601735793454" />
+  </component>
+</project>
